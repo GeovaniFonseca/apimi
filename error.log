@@ -747,3 +747,251 @@ INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 15:31:22] "GET /filtered_items HTTP/1.1
 ERROR:root:Erro ao fazer requisição: Response ended prematurely
 INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 15:34:03] "GET /filtered_items HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 15:34:13] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-286-865
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 18:29:55] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 18:30:08] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-286-865
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 20:24:00] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 20:30:30] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 20:31:05] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 20:32:19] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-286-865
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 12:17:12] "GET /filtered_items HTTP/1.1" 200 -
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 12:48:09] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 12:48:16] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 12:50:29] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 12:51:39] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 12:52:28] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 12:53:43] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 12:54:03] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 12:55:00] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 12:55:41] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 12:56:03] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 12:57:12] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 13:00:03] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 13:01:02] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 13:07:04] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 13:07:06] "GET /filtered_items HTTP/1.1" 200 -
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 13:10:17] "GET /filtered_items HTTP/1.1" 200 -
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-286-865
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 14:19:49] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\geova\\OneDrive\\Área de Trabalho\\KuudraPriceAPI\\app.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-286-865
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 14:21:15] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 14:21:36] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 14:25:27] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 14:26:07] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 14:27:37] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 14:32:19] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 14:35:36] "GET /filtered_items HTTP/1.1" 200 -
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 14:37:15] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 14:39:08] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 14:39:25] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 14:41:08] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 14:43:46] "GET /filtered_items HTTP/1.1" 200 -
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:23:45] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:25:10] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:25:36] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:28:14] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:30:16] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:30:43] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:31:48] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:32:19] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:32:55] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:33:11] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:33:58] "GET /filtered_items HTTP/1.1" 200 -
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:35:46] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:37:04] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:37:15] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:37:40] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:38:25] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:40:29] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:41:02] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:41:28] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:41:49] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:42:12] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:42:40] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:43:12] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:44:40] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:44:59] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:45:17] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:45:36] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:46:29] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:48:15] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:53:33] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:54:14] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 15:59:33] "GET /filtered_items HTTP/1.1" 200 -
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 16:03:45] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 16:07:59] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 16:08:30] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 16:09:00] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 16:09:30] "GET /filtered_items HTTP/1.1" 200 -
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 16:46:46] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 16:46:54] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 16:47:27] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 16:48:46] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 16:48:57] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 16:49:31] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 16:49:49] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 16:50:00] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 16:50:31] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 16:50:53] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 16:52:25] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 16:52:37] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 16:53:28] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 16:53:39] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 16:54:18] "GET /filtered_items HTTP/1.1" 200 -
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 16:55:01] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 16:55:35] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 16:55:47] "GET /filtered_items HTTP/1.1" 200 -
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:00:22] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:00:28] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:01:09] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:01:24] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:02:15] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:02:33] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:02:49] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:03:08] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:05:13] "GET /filtered_items HTTP/1.1" 200 -
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:05:49] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:05:53] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:06:10] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:08:03] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:09:38] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:11:05] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:11:11] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:12:40] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:13:20] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:13:46] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:14:32] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:15:26] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:16:15] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:16:29] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:16:39] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:17:07] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:18:28] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:19:28] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:20:36] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:21:03] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:23:07] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:23:35] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:24:11] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 17:24:24] "GET /filtered_items HTTP/1.1" 200 -
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 18:43:24] "GET /filtered_items HTTP/1.1" 200 -
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-286-865
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 19:44:32] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 19:50:44] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 19:54:35] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 19:56:13] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 19:56:22] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 19:56:48] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 19:59:08] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 20:00:52] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 20:02:40] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 20:03:55] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 20:05:40] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 20:06:14] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 20:08:10] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 20:10:46] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 20:15:48] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 20:16:25] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 20:16:44] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 20:21:26] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 20:22:07] "GET /filtered_items HTTP/1.1" 200 -
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-286-865
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 22:43:28] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 22:46:46] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 22:49:14] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 22:51:48] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 22:52:39] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 22:53:16] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 22:53:52] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 22:53:56] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 22:57:28] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 22:58:39] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 22:59:42] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 23:00:47] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 23:02:16] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 23:03:35] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 23:04:39] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 23:13:54] "GET /filtered_items HTTP/1.1" 200 -
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 23:17:37] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 23:17:59] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 23:20:52] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 23:24:34] "GET /filtered_items HTTP/1.1" 200 -
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 23:25:47] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 23:26:47] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 23:29:35] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 23:30:01] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 23:30:39] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 23:30:46] "GET /filtered_items HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 23:33:25] "GET /filtered_items HTTP/1.1" 200 -
+ERROR:root:Erro ao fazer requisição: Response ended prematurely
+ERROR:root:Erro ao fazer requisição: Response ended prematurely

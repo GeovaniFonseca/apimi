@@ -92,17 +92,20 @@ class ArmorFilterService:
         if datetime.now() - self.last_fetched > timedelta(minutes=5):
             self.refresh_data()
 
-        # Filtra armaduras, equipamentos e shards
+        # Filtra armaduras, equipamentos e shards com bin_status True
         armors = [item for item in self.cached_items 
                 if item.item_name and self.matches_armor_name(item.item_name) 
-                and self.matches_armor_piece(item.item_name)]
+                and self.matches_armor_piece(item.item_name)
+                and item.bin_status == True]
 
         equipments = [item for item in self.cached_items 
-                    if item.item_name and self.matches_equipment_name(item.item_name)]
-        
+                    if item.item_name and self.matches_equipment_name(item.item_name)
+                    and item.bin_status == True]
+
         shards = [item for item in self.cached_items
-                if item.item_name and "Attribute Shard" in item.item_name]
-        
+                if item.item_name and "Attribute Shard" in item.item_name
+                and item.bin_status == True]
+
         # Combina os três resultados
         return armors + equipments + shards
 
